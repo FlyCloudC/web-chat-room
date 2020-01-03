@@ -1,2 +1,4 @@
 # web-chat-room
-咕
+node.js
+websocket
+水平不高，正在学习中...
