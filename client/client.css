@@ -1,0 +1,84 @@
+.message{
+  display:inline-block;
+  
+  font-size:18px;
+  line-height:120%;
+  
+  min-width:10px;
+  min-height:27px;
+  background-color:#dddddd;
+  
+  border:2px solid #999999;
+  border-radius:15px;
+  padding:10px 10px 2px;
+}
+
+body{
+  margin:0;
+  background-color:#aaaaaa;
+}
+
+#top{
+  margin:0;
+  padding:0;
+  
+  background-color:#2288aa;
+  color:white;
+  
+  width:100%;
+  position:fixed;
+  top:0;
+}
+
+#bottom{
+  margin:0;
+  padding:0;
+  
+  background-color:#cccccc;
+  width:100%;
+  /*list-style-type:none;*/
+  position:fixed;
+  bottom:0;
+}
+
+#title{
+  margin:0px;
+  padding:10px;
+  text-align:center;
+  font-size:20px;
+}
+
+#box{
+  height:80%;
+  width:100%;
+  margin:50px 0px;
+  padding:10px;
+  
+  font-size:13px;
+}
+
+#sendTxt{
+  height:45px;
+  width:70%;
+  
+  margin:10px 6px;
+  padding:0px 10px;
+  
+  font-size:18px;
+  background-color:#dddddd;
+  border:2px solid;
+  border-radius:20px;
+}
+
+#sendBtn{
+  height:45px;
+  width:16%;
+  
+  margin:10px 0px;
+  padding:0px;
+  
+  font-size:18px;
+  background-color:#eeeeee;
+  border:2px solid;
+  border-radius:10px;
+}
